@@ -131,6 +131,6 @@ module.exports = (async () => {
 
     console.log("Return data: ", returnData);
   } catch (err) {
-    console.error(err);
+    console.error(err); 
   }
 })();
